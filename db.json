@@ -1,0 +1,84 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "Darb",
+      "last_name": "Bartkowiak",
+      "email": "dbartkowiak0@marketwatch.com",
+      "gender": "Female",
+      "ip_address": "94.118.109.198"
+    },
+    {
+      "id": 2,
+      "first_name": "Misty",
+      "last_name": "Eddow",
+      "email": "meddow1@skyrock.com",
+      "gender": "Female",
+      "ip_address": "49.101.150.200"
+    },
+    {
+      "id": 3,
+      "first_name": "Jeddy",
+      "last_name": "Ingreda",
+      "email": "jingreda2@github.io",
+      "gender": "Male",
+      "ip_address": "159.239.219.203"
+    },
+    {
+      "id": 4,
+      "first_name": "Trey",
+      "last_name": "Cordelle",
+      "email": "tcordelle3@gnu.org",
+      "gender": "Male",
+      "ip_address": "138.223.94.13"
+    },
+    {
+      "id": 5,
+      "first_name": "Beckie",
+      "last_name": "Saggers",
+      "email": "bsaggers4@sun.com",
+      "gender": "Female",
+      "ip_address": "83.57.216.83"
+    },
+    {
+      "id": 6,
+      "first_name": "Sean",
+      "last_name": "Eymor",
+      "email": "seymor5@cnbc.com",
+      "gender": "Male",
+      "ip_address": "162.174.72.41"
+    },
+    {
+      "id": 7,
+      "first_name": "Myrah",
+      "last_name": "Batha",
+      "email": "mbatha6@timesonline.co.uk",
+      "gender": "Genderfluid",
+      "ip_address": "156.52.217.228"
+    },
+    {
+      "id": 8,
+      "first_name": "Toni",
+      "last_name": "Wilsdon",
+      "email": "twilsdon7@bandcamp.com",
+      "gender": "Female",
+      "ip_address": "129.89.169.242"
+    },
+    {
+      "id": 9,
+      "first_name": "Ronalda",
+      "last_name": "Boss",
+      "email": "rboss8@friendfeed.com",
+      "gender": "Bigender",
+      "ip_address": "83.126.228.40"
+    },
+    {
+      "id": 10,
+      "first_name": "Boone",
+      "last_name": "Boyfield",
+      "email": "bboyfield9@unblog.fr",
+      "gender": "Male",
+      "ip_address": "255.248.63.111"
+    }
+  ]
+}
